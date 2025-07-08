@@ -65,7 +65,6 @@ Sends real-time alerts to connected clients.
 
 - Cloud deployment and scaling
 - Multi-user authentication
-- Integration with live radar feeds
 - Advanced NLP for richer communication analysis
 - Real-time weather data integration
 
