@@ -45,32 +45,32 @@
 │ └── index.html # Frontend interface
 └── static/ # CSS, JS, media files
 
-🧠 How It Works
-Fatigue Detection
+## 🧠 How It Works
+
+### Fatigue Detection
 Captures video using OpenCV and Mediapipe to detect blinks, yawns, and face-touching behavior. Computes fatigue scores and raises alerts.
 
-Runway Allocation
+### Runway Allocation
 Prioritizes flights based on emergency status, fuel level, and aircraft size. Visualizes landing sequences using Matplotlib animations.
 
-Communication Monitoring
+### Communication Monitoring
 Records or ingests pilot and ATC audio. Transcribes speech to text using Whisper. Analyzes instructions and potential misunderstandings.
 
-WebSocket Notifications
+### WebSocket Notifications
 Sends real-time alerts to connected clients.
 
-✨ Future Enhancements
-Cloud deployment and scaling
+---
 
-Multi-user authentication
+## ✨ Future Enhancements
 
-Integration with live radar feeds
+- Cloud deployment and scaling
+- Multi-user authentication
+- Integration with live radar feeds
+- Advanced NLP for richer communication analysis
+- Real-time weather data integration
 
-Advanced NLP for richer communication analysis
+---
 
-Real-time weather data integration
+## 🙏 Acknowledgments
 
-📄 License
-This project is licensed under the MIT License.
-
-🙏 Acknowledgments
 Special thanks to the open-source community and libraries that made this project possible.
