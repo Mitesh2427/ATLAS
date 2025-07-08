@@ -34,7 +34,7 @@
 
 ## 📂 Project Structure
 
-.
+```
 ├── app.py # Flask API endpoint
 ├── Runway_simulation.py # Runway allocation and visualization
 ├── fatigue_detection.py # Real-time fatigue monitoring
@@ -44,6 +44,7 @@
 ├── templates/
 │ └── index.html # Frontend interface
 └── static/ # CSS, JS, media files
+```
 
 ## 🧠 How It Works
 
