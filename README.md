@@ -3,7 +3,7 @@
 ## Overview
 
 **ATLAS** is an AI-powered air traffic control dashboard designed to enhance situational awareness, automate runway allocation, and improve communication reliability. By combining real-time fatigue monitoring, intelligent decision support, and speech-to-text capabilities, ATLAS empowers controllers and pilots to operate safely and efficiently.
-
+(atlas/DASHBOARD.png)
 ---
 
 ## ✨ Key Features
